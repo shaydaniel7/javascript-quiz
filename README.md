@@ -25,6 +25,6 @@ THEN I can save my initials and score
 Screenshot:
 
 
-* Deployed application URL: 
+* Deployed application URL: https://shaydaniel7.github.io/js-quiz/
 
 * Github repository URL: https://github.com/shaydaniel7/js-quiz
