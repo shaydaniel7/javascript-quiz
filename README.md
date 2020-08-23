@@ -27,4 +27,4 @@ Screenshot:
 
 * Deployed application URL: 
 
-* Github repository URL:
+* Github repository URL: https://github.com/shaydaniel7/js-quiz
