@@ -29,7 +29,7 @@ I was not able to complete a few aspects set forth in the acceptance criteria, n
 
 ## Screenshot:
 <img width="460" alt="Screen Shot 2020-08-30 at 7 05 20 PM" src="https://user-images.githubusercontent.com/67557233/91676202-e3eaf480-eaf3-11ea-888a-3dfa7275950c.png">
-
+````
 
 * Deployed application URL: https://shaydaniel7.github.io/js-quiz/
 
