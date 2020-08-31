@@ -25,6 +25,7 @@ THEN I can save my initials and score
 ```
 This was challenging for me as it required HTML, CSS and JavaScript to be created from scratch.
 I was not able to complete a few aspects set forth in the acceptance criteria, namely a working timer.
+Also, the screenshot feature is not working for me.
 
 ## Screenshot
 
