@@ -1,9 +1,7 @@
-## User Story
+## Javascript Quiz
 
 ```
-AS A coding bootcamp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+In this project, we were supposed to create a timed code quiz with multiple-choice questions. The app runs in the browser and features dynamically updating HTML and CSS powered by a JavaScipt file. The application is responsive to different screen sizes.
 ```
 
 ## Acceptance Criteria
@@ -21,8 +19,12 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 ```
+## Challenges
+```
+This was challenging for me as it required HTML, CSS and JavaScript to be created from scratch. I was not able to complete a few aspects set forth in the acceptance criteria, namely a working timer.
 
-Screenshot:
+
+## Screenshot:
 
 
 * Deployed application URL: https://shaydaniel7.github.io/js-quiz/
