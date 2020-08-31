@@ -24,12 +24,14 @@ THEN I can save my initials and score
 ## Challenges
 ```
 This was challenging for me as it required HTML, CSS and JavaScript to be created from scratch.
-I was not able to complete a few aspects set forth in the acceptance criteria, namely a working timer.
-Also, the screenshot feature is not working for me and my readme looks really bad for some reason.  The links are not clickable.
+I was not able to complete a few aspects set forth in the acceptance criteria, namely a working timer and information for the user on right and wrong answers.
+Also, the screenshot feature is not working for me.
 
 ## Screenshot
 
 <img width="460" alt="Screen Shot 2020-08-30 at 7 05 20 PM" src="https://user-images.githubusercontent.com/67557233/91676294-3a583300-eaf4-11ea-9e3e-41df7abdfcb5.png">
+
+
 
 * Deployed application URL: https://shaydaniel7.github.io/js-quiz/
 
