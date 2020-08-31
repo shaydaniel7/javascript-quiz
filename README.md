@@ -1,7 +1,9 @@
 ## Javascript Quiz
 
 ```
-In this project, we were supposed to create a timed code quiz with multiple-choice questions. The app runs in the browser and features dynamically updating HTML and CSS powered by a JavaScipt file. The application is responsive to different screen sizes.
+- In this project, we were supposed to create a timed code quiz with multiple-choice questions. 
+- The app runs in the browser and features dynamically updating HTML and CSS powered by a JavaScipt file. 
+- The application is responsive to different screen sizes.
 ```
 
 ## Acceptance Criteria
@@ -21,7 +23,8 @@ THEN I can save my initials and score
 ```
 ## Challenges
 ```
-This was challenging for me as it required HTML, CSS and JavaScript to be created from scratch. I was not able to complete a few aspects set forth in the acceptance criteria, namely a working timer.
+This was challenging for me as it required HTML, CSS and JavaScript to be created from scratch.
+I was not able to complete a few aspects set forth in the acceptance criteria, namely a working timer.
 
 
 ## Screenshot:
