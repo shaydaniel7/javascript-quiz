@@ -1,6 +1,6 @@
 ## Javascript Quiz
 - In this project, we were supposed to create a timed code quiz with multiple-choice questions. 
-- The app runs in the browser and features dynamically updating HTML and CSS powered by a JavaScipt file. 
+- The app runs in the browser and features dynamically updating HTML and CSS powered by a JavaScript file. 
 - The application is responsive to different screen sizes.
 
 ## Screenshot
